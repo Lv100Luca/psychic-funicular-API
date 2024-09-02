@@ -1,0 +1,12 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+**/*.user
+.vs/
+**/TestResults/
+.DS_Store
+meili_data/
+**/appsettings.local.json
+.cache/
